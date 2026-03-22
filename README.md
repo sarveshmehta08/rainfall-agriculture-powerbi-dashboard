@@ -18,3 +18,5 @@ This project analyzes the relationship between rainfall patterns and agricultura
 - Dashboard Pg2.png - Snapshot of Dashboard page 2
 
 ## Dashboard Preview
+https://github.com/sarveshmehta08/rainfall-agriculture-powerbi-dashboard/blob/main/Dashboard%20Pg1.png   
+https://github.com/sarveshmehta08/rainfall-agriculture-powerbi-dashboard/blob/main/Dashboard%20Pg2.png
