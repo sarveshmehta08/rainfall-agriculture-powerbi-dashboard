@@ -14,5 +14,7 @@ This project analyzes the relationship between rainfall patterns and agricultura
 
 ## Files
 - dashboard.pbix – Power BI dashboard
+- Dashboard Pg1.png - Snapshot of Dashboard page 1
+- Dashboard Pg2.png - Snapshot of Dashboard page 2
 
 ## Dashboard Preview
